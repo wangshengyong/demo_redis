@@ -1,4 +1,4 @@
-package com.yuncj.model;
+package evan.wang.model;
 
 import java.io.Serializable;
 import java.util.Date;

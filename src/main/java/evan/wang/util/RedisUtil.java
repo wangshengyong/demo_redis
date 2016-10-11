@@ -1,4 +1,4 @@
-package com.yuncj.util;
+package evan.wang.util;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;

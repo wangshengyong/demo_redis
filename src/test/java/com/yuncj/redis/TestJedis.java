@@ -9,8 +9,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.yuncj.util.RedisUtil;
-
+import evan.wang.util.RedisUtil;
 import redis.clients.jedis.Jedis;
 
 public class TestJedis {

@@ -15,7 +15,7 @@
 		http://www.springframework.org/schema/data/jpa/spring-jpa.xsd">
 
 	<!-- 扫描基包com.yuncj的标注了与Bean相关的注解 -->
-	<context:component-scan base-package="com.yuncj" />
+	<context:component-scan base-package="evan.wang" />
 
 	<!--引入外部属性配置文件, 引用jdbc.properties文件 -->
 	<context:property-placeholder location="classpath:db.properties" />
